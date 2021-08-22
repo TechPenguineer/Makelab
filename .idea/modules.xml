@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Makelab.iml" filepath="$PROJECT_DIR$/.idea/Makelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Makelab.iml" filepath="$PROJECT_DIR$/.idea/modules/Makelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Makelab.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Makelab.app.iml" />
     </modules>
   </component>
 </project>
